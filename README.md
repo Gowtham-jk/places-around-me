@@ -28,7 +28,7 @@ Write your own steps here.
 ```
 
 ## Output:
-![Alt text](map1.png)
-![Alt text](map2.png)
-![Alt text](map3.png)
-![Alt text](map4.png)
+![map1](https://github.com/Gowtham-jk/places-around-me/assets/149857834/75759ae2-c175-4614-b1c7-f3707b0b9e83)
+![map2](https://github.com/Gowtham-jk/places-around-me/assets/149857834/bfa90521-be6d-47e8-b7ec-6ef0547d1349)
+![map3](https://github.com/Gowtham-jk/places-around-me/assets/149857834/30161f67-524a-4c7a-931a-608d14e33268)
+![map4](https://github.com/Gowtham-jk/places-around-me/assets/149857834/d97348ea-cd85-410e-9036-c26e70f7cfb0)
