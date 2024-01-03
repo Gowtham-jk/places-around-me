@@ -40,7 +40,7 @@ Run the Django server and excute the HTML files.
         <!DOCTYPE html>
         <html>
             <head>
-                <title>park</title>
+                <title> park</title>
             </head>
             <body>
                 <h1>local park</h1>
@@ -51,7 +51,7 @@ Run the Django server and excute the HTML files.
     <!DOCTYPE html>
     <html>
         <head>
-            <title>lake</title>title>
+            <title>lake</title>
         </head>
         <body>
             <h1>local lake</h1>
