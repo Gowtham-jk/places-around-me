@@ -47,18 +47,18 @@ Run the Django server and excute the HTML files.
             </body>
         </html>
    
-  3.lake.html
- <!DOCTYPE html>
- <html>
-     <head>
-         <title>lake</title>
-     </head>
-     <body>
-         <h1>local lake</h1>
-     </body>
- </html>
+ 3. lake.html
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <title>lake</title>title>
+        </head>
+        <body>
+            <h1>local lake</h1>
+        </body>
+    </html>
         
-4. home.html
+5. home.html
 
         <!DOCTYPE html>
         <html>
@@ -71,29 +71,27 @@ Run the Django server and excute the HTML files.
         </html>
    
 
-   5. ground.html
-
-        <!DOCTYPE html>
-        <html>
-            <head>
-                <title>Cricket ground</title>
-            </head>
-            <body>
-                <h1>local cricket ground</h1>
-            </body>
-        </html>
+  5. ground.html
+     <!DOCTYPE html>
+     <html>
+         <head>
+             <title>Cricket ground</title>
+         </head>
+         <body>
+             <h1>local cricket ground</h1>
+         </body>
+     </html>
    
-
-   6.garden.html
-    <!DOCTYPE html>
- <html>
-     <head>
-         <title>Garden</title>
-     </head>
-     <body>
-         <h1>local garden</h1>
-     </body>
- </html>
+6. garden.html
+   <!DOCTYPE html>
+   <html>
+       <head>
+           <title>garden</title>
+       </head>
+       <body>
+           <h1>local garden</h1>
+       </body>
+   </html>
 
 
 
