@@ -1,3 +1,5 @@
+
+
 # Places Around Me
 ## AIM:
 To develop a website to display details about the places around my house.
