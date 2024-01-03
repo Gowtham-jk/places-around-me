@@ -46,6 +46,7 @@ Run the Django server and excute the HTML files.
                 <h1>local park</h1>
             </body>
         </html>
+   
    3. lake.html
 
         <!DOCTYPE html>
@@ -57,6 +58,7 @@ Run the Django server and excute the HTML files.
                 <h1>local lake</h1>
             </body>
         </html>
+        
 4. home.html
 
         <!DOCTYPE html>
@@ -69,8 +71,8 @@ Run the Django server and excute the HTML files.
             </body>
         </html>
    
-   
-5. ground.html
+
+   5. ground.html
 
         <!DOCTYPE html>
         <html>
@@ -82,7 +84,8 @@ Run the Django server and excute the HTML files.
             </body>
         </html>
    
-   6. garden.html
+
+    6. garden.html
 
         <!DOCTYPE html>
         <html>
